@@ -1,0 +1,52 @@
+{
+  "courseList": [
+    {
+      "id": 1,
+      "title": "Learn Python: The Complete Python Programming Coursejson-server",
+      "teacher": "typicode",
+      "academy":"global",
+      "rate":4.9,
+      "type":"Python",
+      "review":1000,
+      "price":525,
+      "oldprice":3000,
+       "image_url":"https://cdn-icons-png.flaticon.com/512/653/653469.png"
+    },
+    {
+      "id": 2,
+      "title": "Learn Python: The Complete Python Programming Coursejson-server",
+      "teacher": "typicode",
+      "academy":"global",
+      "rate":4.9,
+      "type":"Html",
+      "review":1000,
+      "price":525,
+      "oldprice":3000,
+      "image_url":"https://media.slidesgo.com/storage/17983763/tell-a-lie-day-minitheme1646231407.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Learn Python: The Complete Python Programming Coursejson-server",
+      "teacher": "typicode",
+      "academy":"global",
+      "rate":4.9,
+      "type":"Python",
+      "review":1000,
+      "price":525,
+      "oldprice":3000,
+      "image_url":"https://cdn-icons-png.flaticon.com/512/3749/3749770.png"
+    },
+    {
+      "id": 4,
+      "title": "Learn Python: The Complete Python Programming Coursejson-server",
+      "teacher": "typicode",
+      "academy":"global",
+      "rate":4.9,
+      "type":"Python",
+      "review":1000,
+      "price":525,
+      "oldprice":3000,
+      "image_url":"https://cdn-icons-png.flaticon.com/512/7128/7128209.png"
+    }
+  ]
+}
